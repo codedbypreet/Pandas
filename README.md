@@ -1,1 +1,1 @@
-this all are pdf is Pandas librariy 
+this all are pdf is Pandas library 
